@@ -10,7 +10,7 @@
     <property name="target" value="1.6"/>
     <property name="source" value="1.6"/>
     <path id="Android 5.1.1.libraryclasspath">
-        <pathelement location="../../Android/adt-bundle-mac-x86_64-20140702/sdk/platforms/android-22/android.jar"/>
+        <pathelement location="/Users/Shared/Jenkins/Home/tools/android-sdk/platforms/android-22/android.jar"/>
     </path>
     <path id="Android Private Libraries.libraryclasspath">
         <pathelement location="libs/android-support-v4.jar"/>
